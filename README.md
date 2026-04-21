@@ -1,2 +1,2 @@
 # la-catrina-restaurant
-"React restaurant website for Web Dev class. "
+"React restaurant website for Web Dev class. qwertyui"
